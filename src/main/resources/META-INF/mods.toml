@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+[[mods]]
+modId="poloniummeme"
+version="1.0.0"
+displayName="Polonium Meme"
+description="A mod that spawns a temporary 10x10x10 dark concrete box."
+authors="YourName"
+[[dependencies.poloniummeme]]
+modId="forge"
+mandatory=true
+versionRange="[43.4.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.poloniummeme]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"

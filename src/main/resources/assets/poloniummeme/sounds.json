@@ -1,0 +1,10 @@
+{
+  "box_music": {
+    "sounds": [
+      {
+        "name": "poloniummeme:box_music",
+        "stream": true
+      }
+    ]
+  }
+}
